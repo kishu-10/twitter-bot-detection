@@ -24,7 +24,7 @@ The following classification algorithms were trained and evaluated:
 
 ## 🔍 Hyperparameter Tuning
 
-GridSearchCV and RandomizedSearchCV were used to fine-tune hyperparameters for the models to maximize performance.
+RandomizedSearchCV were used to fine-tune hyperparameters for the models to maximize performance.
 
 ## 🛠️ Tech Stack
 
